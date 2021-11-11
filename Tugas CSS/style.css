@@ -1,0 +1,29 @@
+.kotak{
+    display:inline;
+    float:left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.nama{
+    display: inline;
+    float:left; 
+    margin-left:20px; 
+    font-size : 17px;"
+}
+.kamu{
+    display: inline; 
+    float:right; 
+    margin-right:50px;
+     font-size: 17px; 
+     text-align:right;
+}
+.margin{
+    font-size: 17px;">
+}
+.konten{
+    float: left; 
+    margin-left:50px;
+}
+.bagian{
+    margin-right: 3%;
+}
